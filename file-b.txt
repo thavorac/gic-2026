@@ -1,3 +1,4 @@
 this is file b
 
 changes from remote
+local changes
